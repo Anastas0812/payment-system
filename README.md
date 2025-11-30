@@ -1,5 +1,7 @@
-# Webpack5
+# Payment System
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[Github Pages](https://anastas0812.github.io/payment-system/)
 
+![CI](https://github.com/Anastas0812/payment-system/actions/workflows/web.yml/badge.svg)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/cvqf7a5luq3ngifj/branch/main?svg=true)]
