@@ -1,0 +1,26 @@
+Иконки платежных систем
+
+Visa: 
+- Источник: [https://icons8.ru/icons/set/pay-sistem]
+- Лицензия: [MIT License]
+
+Mastercard:
+- Источник: [https://klev.club/] 
+- Лицензия: [MIT License]
+
+МИР:
+- Источник: [https://icons8.ru/icons/set/pay-sistem]
+- Лицензия: [MIT License]
+
+American Express:
+- Источник: [https://www.flaticon.com/free-icons/]
+- Лицензия: [MIT License]
+
+UnionPay:
+- Источник: [https://www.flaticon.com/free-icons/]
+- Лицензия: [MIT License]
+
+Maestro:
+- Источник: [https://www.flaticon.com/free-icons/]
+- Лицензия: [MIT License]
+

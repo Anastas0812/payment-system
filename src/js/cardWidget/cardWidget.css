@@ -1,0 +1,44 @@
+.input-area {
+  width: 180px;
+  height: 25px;
+}
+
+.cards-img {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.card-icon {
+  width: 45px;
+  height: 30px;
+  object-fit: contain;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 2px;
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.card-icon.inactive {
+  opacity: 0.3;
+  filter: grayscale(100%);
+}
+
+.card-icon.active {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.1);
+  border: 2px solid #007bff;
+}
+
+.button {
+  width: 140px;
+  height: 30px;
+  background-color: rgb(107, 192, 107);
+  color: aliceblue;
+  border-radius: 7px;
+  border-color: rgb(107, 192, 107);
+  font-size: 16px;
+}
